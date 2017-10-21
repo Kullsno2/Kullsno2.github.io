@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Half &nbsp;time: Retrospection, Introspection & Prospection"
+title: My thoughts on Mersal
 categories: blog
 tags: ['recurse-center', 'programming']
 excerpt: 'Thoughts on my Recurse Center experience so far'
