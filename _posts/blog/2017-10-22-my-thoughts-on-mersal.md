@@ -18,7 +18,7 @@ What more can I say after watching this masterpiece which was brought to life by
 
 I can never express my feelings in words when I see Thalapathy on screen.This film easily tops my favorite list of Vijay films.Vijay had a great scope for acting in this movie and as usual he danced with such passion and energy.
 
-The Paris fight scene & the Punjab intro scene are my favorites.The flashback scene where Vetrimaran describes Aisu(Nithya Menon) to his son and the Cesarean surgery which takes place along with it.Atlee _/\_
+The Paris fight scene & the Punjab intro scene are my favorites.The flashback scene where Vetrimaran describes Aisu(Nithya Menon) to his son and the Cesarean surgery which takes place along with it.Atlee Uyyooo <3
 
 "Aisu! ... Aisu! ... Vuttu poirathadi! ... " , Thalapathy Steals the show <3
 
