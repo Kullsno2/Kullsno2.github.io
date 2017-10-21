@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Blog
-excerpt: "An archive of blog posts sorted by date."
+excerpt: "Exploring our world , one word at a time"
 search_omit: true
+image:
+	feature: mystic.jpg
 ---
 
 <ul class="post-list">
