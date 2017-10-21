@@ -2,14 +2,15 @@
 layout: post
 title: "My thoughts on Mersal"
 categories: blog
-tags: ['vijay', 'arr', 'atlee', 'kajal']
-excerpt: 'Thalapathy's acting.Kajal's dance.Mersal music'
+tags: ['vijay', 'kajal']
+excerpt: 'Vijay's acting.Kajal's dance.And lot more.'
 date: October 22, 2017
 author: self
 image:
     feature: my-thoughts-on-mersal/vijay.jpg
 
 ---
+
 
 What more can I say after watching this masterpiece which was brought to life by Atlee and Vijay :D Nevertheless , here I shed light upon some of the magic moments in Mersal , the movie.
 
