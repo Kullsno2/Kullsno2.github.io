@@ -2,7 +2,7 @@
 layout: post
 title: My thoughts on Mersal
 categories: blog
-tags: ['recurse-center', 'programming']
+tags: ['vijay', 'kajal']
 excerpt: 'Vijay.Kajal.Innum Konjam.'
 date: October 22, 2017
 author: self
