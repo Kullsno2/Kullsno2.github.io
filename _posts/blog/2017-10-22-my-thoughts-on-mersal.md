@@ -3,7 +3,7 @@ layout: post
 title: My thoughts on Mersal
 categories: blog
 tags: ['recurse-center', 'programming']
-excerpt: 'Thoughts on my Recurse Center experience so far'
+excerpt: 'Vijay.Kajal.Innum Konjam.'
 date: October 22, 2017
 author: self
 image:
