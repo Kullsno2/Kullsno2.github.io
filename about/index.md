@@ -6,9 +6,7 @@ image:
   feature: sukin.jpg
 ---
 
-I am currently doing my Bachelor studies in Computer Science & Engineering at College of Engineering,Guindy.
+I'm a 'Chamathu' guy who is very much interested in Algorithms.Mathematics & Big Data Analytics are my areas of interest.
 
-Mathematics and Competitive programming pique my
-interest.
+When not thinking about code , you can find me with my Lenovo T460 watching old episodes of Breaking Bad.
 
-When not thinking about code, I play FIFA or binge-watch old episodes of Breaking Bad & Game of Thrones.
