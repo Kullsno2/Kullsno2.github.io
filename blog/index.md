@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Blog
-excerpt: "Exploring our world , one word at a time"
+excerpt: "Exploring our world , one code at a time"
 search_omit: true
 image:
-	feature: mystic.jpg
+  feature: mystic.jpg
 ---
 
 <ul class="post-list">
