@@ -4,7 +4,7 @@ title: Blog
 excerpt: "Exploring our world , one code at a time"
 search_omit: true
 image:
-  feature: mystic.jpg
+  feature: circuit.png
 ---
 
 <ul class="post-list">
