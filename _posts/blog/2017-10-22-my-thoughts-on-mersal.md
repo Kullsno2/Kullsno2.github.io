@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "My thoughts on Mersal"
+title: "Half &nbsp;time: Retrospection, Introspection & Prospection"
 categories: blog
-tags: ['vijay', 'kajal']
-excerpt: 'Vijay's acting.Kajal's dance.And lot more.'
-date: October 22, 2017
+tags: ['recurse-center', 'programming']
+excerpt: 'Thoughts on my Recurse Center experience so far'
+date: July 2, 2017
 author: self
 image:
-    feature: my-thoughts-on-mersal/vijay.jpg
+    feature: half-time/cover.jpg
 
 ---
 
