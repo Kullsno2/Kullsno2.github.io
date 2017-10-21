@@ -3,7 +3,7 @@
 title: Cracking The Code
 locale: en_US
 description: Google pannunga illena neenga shutup pannunga
-logo: coffee.png
+logo: coffee.jpg
 search: true
 url: https://kullsno2.github.io
 
@@ -38,8 +38,8 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Sukin Kumar
   avatar: sk.jpg
-  email: kullsno2@email.com
-  disqus-shortname:kullsno2
+  email: kullsno2@gmail.com
+  disqus-shortname: sukinkumar krishnasamy
   twitter: PodaSipsu
   facebook: #username
   github: #username
