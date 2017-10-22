@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Comics
-excerpt: "A non-exhaustive list of comics which I stumbled upon."
+title: Stuffs
+excerpt: "A non-exhaustive list of stuffs which I stumbled upon."
 search_omit: true
 ---
 
 <ul class="post-list">
-{% for post in site.categories.comics %} 
+{% for post in site.categories.stuffs %} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
