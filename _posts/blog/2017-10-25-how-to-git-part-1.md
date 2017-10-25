@@ -6,8 +6,6 @@ tags: ['git']
 excerpt: 'Everything you need to know about Git & Github.'
 date: October 25, 2017
 author: self
-image:
-    feature: how-to-git/git.png
 
 ---
 
@@ -155,7 +153,9 @@ were kind enought to teach me the basics of vcs and git.
 Without them I wouldn't have had the courage to take 
 up git and learn its basics.
 
-Thanks for reading.A follow up post ft. Branches , forks and pull requests is coming soon :)
+Thanks for reading!
+
+A follow up post ft. Branches , forks and pull requests is coming soon :)
 
 
 
