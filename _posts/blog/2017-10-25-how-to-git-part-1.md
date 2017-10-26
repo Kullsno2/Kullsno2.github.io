@@ -31,12 +31,12 @@ detail about the definition. However, in one line -
 
 ## Getting Started
 
-After getting the right tools , we are good to go on and create our 
+After getting the right tools , we are good to go and create our 
 first repository in Github.Follow the steps below:
 
-1. Login into your github account
+1. Log into your github account
 2. Select create new repository
-3. Give a relevant and follow through the next steps.
+3. Give a relevant name and follow through the next steps.
 4. Finish it!
 
 Now you have an empty repository with a readme and a license file
@@ -44,18 +44,18 @@ of your own.
 
 ## Local Access
 
-So you got a repository online of your own.How can you change the contents of the files
+So you got your own repository online.How can you change the contents of the files
 there?
 
 Directly editing there and commiting the changes is the first thing which comes to your mind.
-But you cannot always edit it online.There will be some part of the code whih requires the code 
+But you cannot always edit it online.There will be some part of the code which requires the code 
 to be stored locally.There are two ways by which you can get the repository locally.
 
 1. Git inits and pulls.
 2. Git clones.
 
-The first method is a little bit complex.So we will stickto the second method 
-whenever we need a copy our git repository locally.
+The first method is a little bit complex.So we will stick to the second method 
+whenever we need a copy of our repository locally.
 
 ## Clone
 
@@ -78,7 +78,7 @@ copy of your repository.
 ## Changes
 
 Hmm , now you have a local copy of your repository.Let's say you make changes 
-to your code like adding libraries and functionalities.Your local copy will 
+to your code by adding libraries and functionalities.Your local copy will 
 have additional code compared to the one which is stored on Github.How can you merge 
 both the codes?
 
@@ -129,7 +129,7 @@ and reach the destination.We do this by ,
 git push origin master
 ```
 
-where master is the master of the branch of the current working repository.
+where master is the master branch of the current working repository.
 (Branches , forks and pull requests will be dealt in a separate follow-up post).
 
 ## Final Countdown
