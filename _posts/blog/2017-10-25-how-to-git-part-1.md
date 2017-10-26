@@ -148,7 +148,8 @@ git config --global user.email mailid@example.com
 
 ## Acknowledgements
 
-Ramkumar , Ganesh and Shri Shruthi 
+[Ramkumar](https://github.com/realramkumar) , [Ganesh](https://github.com/Ganeshrockz) and 
+[Shri Shruthi](https://www.facebook.com/shruthi.shridhar.1) 
 were kind enough to teach me the basics of vcs and git.
 Without them I wouldn't have had the courage to take 
 up git and learn its basics.
