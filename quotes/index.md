@@ -17,49 +17,49 @@ This is a collection of quotes that I've stumbled upon the internet and in books
 >
 > --- Hector Berlioz
 
-</br>
+<br/>
 
 > In theory, there is no difference between theory and practice.But, in practice, there is. 
 >
 > --- Snepscheut
 
-</br>
+<br/>
 
 > When ideas fail, words come in very handy.
 >
 > --- Johann Wolfgang von Goethe
 
-</br>
+<br/>
 
 > Hardware, n.: The parts of a computer system that can be kicked.
 >
 > --- Anonymous
 
-</br>
+<br/>
 
 > To iterate is human, to recurse, divine.
 >
 > --- Anonymous
 
-</br>
+<br/>
 
 > A mathematician is a device for turning coffee into theorems.
 >
 > --- Paul Erdos
 
-</br>
+<br/>
 
 > Logic is the art of going wrong with confidence.
 >
 > --- Joseph Wood Krutch
 
-</br>
+<br/>
 
 > Any sufficiently advanced bug is indistinguishable from a feature.
 >
 > --- Rich Kulawiec
 
-</br>
+<br/>
 
 > Alcohol and calculus don't mix.Don't drink and derive.
 >
