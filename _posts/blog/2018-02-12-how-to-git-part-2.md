@@ -25,14 +25,14 @@ So give it a read before proceeding.
 After reading about git and other basic functionalities in git , a noob
 may come to a conclusion that github is just another online cloud where you
 can store computer code and access them whenever and wherever he wants it.
-No it's more than that.Branches and forks help people to colloborate on 
+No it's more than that.Branches and forks help people to collaborate on 
 the work they do.
 
 ## What is a branch
 
-Branches in github are used for intra repository colloboration.It is highly helpful when a 
+Branches in github are used for intra repository collaboration.It is highly helpful when a 
 large number of people are involved in a bigger project and the work is divided more or less
-equally between the colloborators.The default and the only working branch in a newly created 
+equally between the collaborators.The default and the only working branch in a newly created 
 repository is the master branch.
 
 <figure>
@@ -54,8 +54,8 @@ whatever they want with their own bowl of maggi with the flavours added.
 
 ## A typical branching scenario
 
-Branches are very helpful when there is a group project and multiple colloborators are involved.The master branch contains the main workflow.The colloborators are consulted and the whole project is divided into multiple sub tasks with each member getting 
-a small task.Each member then creates a separate branch of their own , make changes to the code and run and test them.When they feel that their subtask is complete and all the features are implemented , they ask the master to merge their branch to master branch.The master receives multiple merge requests since there are multiple colloborators involved.He checks each and every branch and merges them.If there is a bug while merging a branch then he sends it back with necessary comments to make the change and he doesn't merge that branch.
+Branches are very helpful when there is a group project and multiple collaborators are involved.The master branch contains the main workflow.The collaborators are consulted and the whole project is divided into multiple sub tasks with each member getting 
+a small task.Each member then creates a separate branch of their own , make changes to the code and run and test them.When they feel that their subtask is complete and all the features are implemented , they ask the master to merge their branch to master branch.The master receives multiple merge requests since there are multiple collaborators involved.He checks each and every branch and merges them.If there is a bug while merging a branch then he sends it back with necessary comments to make the change and he doesn't merge that branch.
 
 ## Maggi and Git
 
@@ -97,7 +97,7 @@ will be merged.
 
 ## What is a Fork
 
-Forks in github are used for inter repository colloboration.After forking and improving the code , a pull request is made and the owner of the original repository accepts the pull request and the new changes are reflected in his code.
+Forks in github are used for inter repository collaboration.After forking and improving the code , a pull request is made and the owner of the original repository accepts the pull request and the new changes are reflected in his code.
 
 A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
 

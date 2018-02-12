@@ -76,3 +76,9 @@ This is a collection of quotes that I've stumbled upon the internet and in books
 > Experiment everything but expect nothing.
 >
 > --- SK
+
+<br/>
+
+> When you finish second in a race , you don't win the silver and only lose the gold.
+>
+> --- Major. Chandrakant Nair
