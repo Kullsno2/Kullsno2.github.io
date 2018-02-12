@@ -157,8 +157,3 @@ up git and learn its basics.
 Thanks for reading!
 
 A follow up post ft. Branches , forks and pull requests is coming soon :)
-
-
-
-
-

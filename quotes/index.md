@@ -64,3 +64,15 @@ This is a collection of quotes that I've stumbled upon the internet and in books
 > Alcohol and calculus don't mix.Don't drink and derive.
 >
 > --- Anonymous
+
+<br/>
+
+> Don't have any assumptions,preconditions or presumptions regarding anything , otherwise you will panic.
+>
+> --- Dr.T.Raghuveera
+
+<br/>
+
+> Experiment everything but expect nothing.
+>
+> --- SK
