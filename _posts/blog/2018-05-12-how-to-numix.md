@@ -18,8 +18,8 @@ Numix is available for all major Linux distributions and desktop environments fo
 
 ## Prerequisites
 
-1.Ubuntu 14.04 or Ubuntu 16.04 and nothing else.
-2.Read the first requirement again.
+1. Ubuntu 14.04 or Ubuntu 16.04 and nothing else.
+2. Read the first requirement again.
 
 ## Cooking phase
 
@@ -30,11 +30,11 @@ sudo add-apt-repository ppa:numix/ppa
 ```
 
 Update the packages list!
-    
+
 ```
 sudo apt-get update
 ```
-    
+
 Install the numix theme and icons
 
 ```
@@ -56,13 +56,13 @@ Install the tweak tool by typing out the following command in the terminal.
 ```
  sudo apt-get install unity-tweak-tool
 ```    
-    
+
 If you are using GNOME, then install Gnome Tweak Tool with the following command:
 
 ```
 sudo apt-get install gnome-tweak-tool
 ```    
-    
+
 After installing the tweak tool :
 
 1. Click and open theme in the appearances tab
@@ -79,7 +79,7 @@ Search for lightdm gtk+ greeter settings in the Ubuntu software centre and insta
 1. Select theme as Numix.
 2. Select icons as Numix-Circle.
 3. Select image as the background image you want.
-4. Click save and press reload to reload the display server! 
+4. Click save and press reload to reload the display server!
 5. Reboot the system :D
 
 You can find my desktop wallpaper [here](https://drive.google.com/open?id=10KcFLYjj4jT1lFZpFkYnQf9AEEtzTYvX)
