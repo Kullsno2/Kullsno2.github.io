@@ -19,7 +19,7 @@ This is a collection of quotes that I've stumbled upon the internet and in books
 
 <br/>
 
-> In theory, there is no difference between theory and practice.But, in practice, there is. 
+> In theory, there is no difference between theory and practice.But, in practice, there is.
 >
 > --- Snepscheut
 
@@ -67,7 +67,7 @@ This is a collection of quotes that I've stumbled upon the internet and in books
 
 <br/>
 
-> Don't have any assumptions,preconditions or presumptions regarding anything , otherwise you will panic.
+> Don't have any presumptions,assumptions or hallucinations, or else you will panic.
 >
 > --- Dr.T.Raghuveera
 
