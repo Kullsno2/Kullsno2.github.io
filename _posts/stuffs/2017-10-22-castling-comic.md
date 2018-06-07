@@ -2,7 +2,7 @@
 layout: post
 title: Castling
 categories: stuffs
-excerpt: A thingsinsqaures comic depicting one of the powerful moves in the game of Chess.
+excerpt: A thingsinsquares comic depicting one of the powerful moves in the game of Chess.
 author: self
 ---
 
