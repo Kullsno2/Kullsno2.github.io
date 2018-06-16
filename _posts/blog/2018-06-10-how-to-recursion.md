@@ -30,6 +30,8 @@ features of a programming language which accomplishes much more than the
 iterative algorithms.Before we dive deep into the recursion concepts and recur
 ourselves,read [this](https://www.geeksforgeeks.org/recursion/) article on
 geeksforgeeks which gives a head start to those who are unaware of the word recursion.
+Aaron Krolik has written an amazing piece about recursion [here](http://qr.ae/TUppT9),
+and I request you all to give it a read before diving head first into recursion!
 
 ## Concept
 
@@ -147,3 +149,5 @@ link to clarify further doubts about the topic.
 Thanks Rajkiran Rajkumar for encouraging me to do this!
 
 Thanks for reading!
+
+And how many of you got the recursion at the start of the page in requirements tab?
