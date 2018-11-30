@@ -97,7 +97,7 @@ At this restaurant we ordered a set of parotta and he brought us 3 pieces of par
 ## Top 5 moments
 
 1. [Mannequin Challenge at the Pine Forest](https://www.youtube.com/watch?v=JJunwxFMsio)
-2. [Omana Penna at the Boat House](https://www.youtube.com/watch?v=zNQGjRh7uI0)
+2. [Omana Penne at the Boat House](https://www.youtube.com/watch?v=zNQGjRh7uI0)
 3. Offroad Jeep Ride
 4. Dumb Charades, Mafias and Mini Militia at every place we went :P
 5. Farewell Speech
