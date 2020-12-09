@@ -94,9 +94,3 @@ This is a collection of quotes that I've stumbled upon the internet and in books
 > When there was nobody , she came in like a cotton candy which melted to his bottle of brandy.
 >
 > --- SK
-
-<br/>
-
-> When there was nobody , she came in like a cotton candy and got shrunken shortly.
->
-> --- Real Ramkumar
